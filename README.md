@@ -1,7 +1,3 @@
-Great! Based on your document, here's a **professional and comprehensive README.md** for your GitHub project:
-
----
-
 # Sentiment Analysis of Amazon Fine Food Reviews Using VADER and RoBERTa
 
 This project is a comparative study of two sentiment analysis techniques — **VADER**, a rule-based model, and **RoBERTa**, a deep learning-based NLP model — applied to the **Amazon Fine Food Reviews** dataset. The goal is to evaluate the effectiveness of these models in understanding and classifying customer sentiments from real-world product reviews.
